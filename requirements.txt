@@ -3,5 +3,7 @@ scipy
 scikit-learn
 numpy
 streamlit
-matplotlib seaborn plotly
+matplotlib
+seaborn
+ plotly
 torch
