@@ -696,7 +696,7 @@ def show_2d_analysis(df):
         zmax=vmax,
         colorbar=dict(
             title=selected_property,
-            titleside='right',
+#            titleside='right',
             tickvals=[vmin, vmax],
             ticktext=[f"{vmin:.2f}", f"{vmax:.2f}"]  # 小数点2桁に設定
         )
